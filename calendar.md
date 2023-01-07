@@ -1,4 +1,34 @@
-layout: page
-title: Calendar
-weight : 98
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjlwMzRrY2cyMGx2bDBkMGV0c2NsZ2poZDMga2luZGxlZHNwYXJrc0Bt&amp;tmsrc=kindledsparks%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+Schedule:
+
+## Lab 1
+Sunday, 1/22/2023 
+
+## Live Session 1 
+4 From Linear Regression to Classification
+Thursday, 1/26/2023
+
+## Mini Project 
+SVM and LR
+Sunday, 2/5/2023
+
+## 2nd Live Session Assignment
+Decision Trees
+Thursday, 2/9/2023
+
+## 3rd Live Session Assignment
+8 Alternative Classifiers 
+Thursday, 2/23/2023
+
+## Lab 2
+Sunday, 3/5/2023 
+
+## 4th Live Session Assignment
+Basic Clustering Methods  
+Thursday, 3/9/2023
+
+## 5th Live Session Assignment
+Thursday, 3/23/2023
+
+## Lab 3/Final Project
+Sunday, 4/9/2023
+
