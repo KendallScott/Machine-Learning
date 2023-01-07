@@ -1,6 +1,6 @@
 ## Here is the rubric I will be using to grade Lab 1.  
-## You must have these exact sections in your project, if you want me to grade it!  
-## Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
+You must have these exact sections in your project, if you want me to grade it!  
+Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 
 ## Business Understanding 10 points
 - [ ]  Describe the purpose of the data set you selected (i.e., why was this data collected in the first place?). 
