@@ -3,12 +3,12 @@ You must have these exact sections in your project, if you want me to grade it!
 Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 
 ## Business Understanding 10 points
-- [ ]  Describe the purpose of the data set you selected (i.e., why was this data collected in the first place?). 
-- [ ]  Describe how you would define and measure the outcomes from the dataset. 
-- [ ]  That is, why is this data important and how do you know if you have mined useful knowledge from the dataset? 
+- [x]  Describe the purpose of the data set you selected (i.e., why was this data collected in the first place?). 
+- [x]  Describe how you would define and measure the outcomes from the dataset. 
+- [x]  That is, why is this data important and how do you know if you have mined useful knowledge from the dataset? 
 - [ ]  How would you measure the effectiveness of a good prediction algorithm? Be specific.
 ## Data Meaning Type 10	points
-- [ ]  Describe the meaning and type of data (scale, values, etc.) for each attribute in the data file.
+- [x]  Describe the meaning and type of data (scale, values, etc.) for each attribute in the data file.
 ## Data Quality	15 points
 - [ ]  Verify data quality: Explain any missing values, duplicate data, and outliers. 
 - [ ]  Are those mistakes? 
