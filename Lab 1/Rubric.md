@@ -6,7 +6,7 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 - [x]  Describe the purpose of the data set you selected (i.e., why was this data collected in the first place?). 
 - [x]  Describe how you would define and measure the outcomes from the dataset. 
 - [x]  That is, why is this data important and how do you know if you have mined useful knowledge from the dataset? 
-- [ ]  How would you measure the effectiveness of a good prediction algorithm? Be specific.
+- [x]  How would you measure the effectiveness of a good prediction algorithm? Be specific.
 ## Data Meaning Type 10	points
 - [x]  Describe the meaning and type of data (scale, values, etc.) for each attribute in the data file.
 ## Data Quality	15 points
