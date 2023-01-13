@@ -15,23 +15,23 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 - [ ]  How do you deal with these problems? 
 - [ ]  Give justifications for your methods.
 ## Simple Statistics 10	points 
-## Tadd
+#### Tadd
 - [ ]  Visualize appropriate statistics (e.g., range, mode, mean, median, variance, counts) for a subset of attributes. 
 - [ ]  Describe anything meaningful you found from this or if you found something potentially interesting. 
 - [ ]  Note: You can also use data from other sources for comparison. 
 - [ ]  Explain why the statistics run are meaningful. 
 ## Visualize Attributes	15 points
-## Everyone does 1-2 graphs with paragraph
+####  Everyone does 1-2 graphs with paragraph
 - [ ]  Visualize the most interesting attributes (at least 5 attributes, your opinion on what is interesting). 
 - [ ]  Important: Interpret the implications for each visualization. 
 - [ ]  Explain for each attribute why the chosen visualization is appropriate.
 ## Explore Joint Attributes 15 points
-## Tadd and Milan
+####  Tadd and Milan
 - [ ]  Visualize relationships between attributes: 
 - [ ]  Look at the attributes via scatter plots, correlation, cross-tabulation, group-wise averages, etc. as appropriate. 
 - [ ]  Explain any interesting relationships.
 ## Explore Attributes and Class	10 points
-## Andrew
+####  Andrew
 - [ ]  Identify and explain interesting relationships between features and the class you are trying to predict (i.e., relationships with variables and the target classification).
 ## New Features	5	points
 ## Kendall
