@@ -10,7 +10,7 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 ## Data Meaning Type 10	points
 - [x]  Describe the meaning and type of data (scale, values, etc.) for each attribute in the data file.
 ## Data Quality	15 points
-- [x]  Verify data quality: Explain any missing values, duplicate data, and outliers. 
+- [ ]  Verify data quality: Explain any missing values, duplicate data, and outliers. 
 - [x]  Are those mistakes? 
 - [ ]  How do you deal with these problems? 
 - [ ]  Give justifications for your methods.
