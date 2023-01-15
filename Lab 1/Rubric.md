@@ -11,10 +11,10 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 - [x]  Describe the meaning and type of data (scale, values, etc.) for each attribute in the data file.
 ## Data Quality	15 points
 #### Kendall
-- [ ]  Verify data quality: Explain any missing values, duplicate data, and outliers. 
+- [x]  Verify data quality: Explain any missing values, duplicate data, and outliers. 
 - [x]  Are those mistakes? 
-- [ ]  How do you deal with these problems? 
-- [ ]  Give justifications for your methods.
+- [x]  How do you deal with these problems? 
+- [x]  Give justifications for your methods.
 
 ## Simple Statistics 10	points 
 
