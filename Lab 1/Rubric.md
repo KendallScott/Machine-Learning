@@ -39,7 +39,7 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 - [ ]  Explain any interesting relationships.
 ## Explore Attributes and Class	10 points
 ####  Andrew
-- [ ]  Identify and explain interesting relationships between features and the class you are trying to predict (i.e., relationships with variables and the target classification).
+- [x]  Identify and explain interesting relationships between features and the class you are trying to predict (i.e., relationships with variables and the target classification).
 ## New Features	5	points
 #### Kendall
 
@@ -47,5 +47,5 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 ## Exceptional Work	10 points
 
 ## Andrew? maybe pca maybe not/Maybe Kendall
-- [ ]  You have free reign to provide additional analyses. One idea: implement dimensionality reduction, then visualize and interpret the results.
+- [x]  You have free reign to provide additional analyses. One idea: implement dimensionality reduction, then visualize and interpret the results.
 Total	100
