@@ -22,9 +22,9 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 
 #### Tadd
 - [ ]  Visualize appropriate statistics (e.g., range, mode, mean, median, variance, counts) for a subset of attributes. 
-- [ ]  Describe anything meaningful you found from this or if you found something potentially interesting. 
-- [ ]  Note: You can also use data from other sources for comparison. 
-- [ ]  Explain why the statistics run are meaningful. 
+- [x]  Describe anything meaningful you found from this or if you found something potentially interesting. 
+- [x]  Note: You can also use data from other sources for comparison. 
+- [x]  Explain why the statistics run are meaningful. 
 ## Visualize Attributes	15 points
 
 ####  Everyone does 1-2 graphs with paragraph
