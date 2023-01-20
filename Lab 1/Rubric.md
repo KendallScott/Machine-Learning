@@ -21,7 +21,7 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 ## Simple Statistics 10	points 
 
 #### Tadd
-- [ ]  Visualize appropriate statistics (e.g., range, mode, mean, median, variance, counts) for a subset of attributes. 
+- [x]  Visualize appropriate statistics (e.g., range, mode, mean, median, variance, counts) for a subset of attributes. 
 - [x]  Describe anything meaningful you found from this or if you found something potentially interesting. 
 - [x]  Note: You can also use data from other sources for comparison. 
 - [x]  Explain why the statistics run are meaningful. 
