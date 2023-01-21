@@ -28,15 +28,15 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 ## Visualize Attributes	15 points
 
 ####  Everyone does 1-2 graphs with paragraph
-- [ ]  Visualize the most interesting attributes (at least 5 attributes, your opinion on what is interesting). 
-- [ ]  Important: Interpret the implications for each visualization. 
-- [ ]  Explain for each attribute why the chosen visualization is appropriate.
+- [x]  Visualize the most interesting attributes (at least 5 attributes, your opinion on what is interesting). 
+- [x]  Important: Interpret the implications for each visualization. 
+- [x]  Explain for each attribute why the chosen visualization is appropriate.
 ## Explore Joint Attributes 15 points
 
-####  Tadd and Milan
-- [ ]  Visualize relationships between attributes: 
-- [ ]  Look at the attributes via scatter plots, correlation, cross-tabulation, group-wise averages, etc. as appropriate. 
-- [ ]  Explain any interesting relationships.
+####  Tadd
+- [x]  Visualize relationships between attributes: 
+- [x]  Look at the attributes via scatter plots, correlation, cross-tabulation, group-wise averages, etc. as appropriate. 
+- [x]  Explain any interesting relationships.
 ## Explore Attributes and Class	10 points
 ####  Andrew
 - [x]  Identify and explain interesting relationships between features and the class you are trying to predict (i.e., relationships with variables and the target classification).
@@ -46,6 +46,6 @@ Lab 1 is due Sunday, 01/22/2023 by 11:59PM.
 - [ ] Are there other features that could be added to the data or created from existing features? Which ones?
 ## Exceptional Work	10 points
 
-## Andrew? maybe pca maybe not/Maybe Kendall
+## Andrew
 - [x]  You have free reign to provide additional analyses. One idea: implement dimensionality reduction, then visualize and interpret the results.
 Total	100
