@@ -1,4 +1,4 @@
-### (Milan Patel) Need more Visuals (more confusion matrixes)
+### (Milan Patel) Need more Visuals (more confusion matrixes, visualizations of the results)
 ### (Milan Patel) Modeling and Evaluation 4
 ### (Tadd Backus) Modeling and Evaluation 6 needs to be done
 ### talk to the different methods (test/train, cross validation, Stratified CV)? Maybe
