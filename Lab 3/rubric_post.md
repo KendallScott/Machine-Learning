@@ -2,12 +2,16 @@ Lab 3 Rubric
 Jake Drew
 All Sections
 No unread replies.No replies.
+
+
 Here is the rubric I will be using to grade the Lab 3.  You must have these exact sections in your project, if you want me to grade it!  Lab 3 is due Sunday, 4/09/2023 by 11:59PM.
 
  
 
 Category 	Available 	Requirements 
 Total Points 	100
+
+
 Business Understanding 1	10	Describe the purpose of the data set you selected (i.e., why was this data collected in the first place?). How will you measure the effectiveness of a good algorithm? Why does your chosen validation method make sense for this specific dataset and the stakeholders needs?
 Data Understanding 1	10	Describe the meaning and type of data (scale, values, etc.) for each attribute in the data file. Verify data quality: Are there missing values? Duplicate data? Outliers? Are those mistakes? How do you deal with these problems?
 Data Understanding 2	10	Visualize the any important attributes appropriately. Important: Provide an interpretation for any charts or graphs.
